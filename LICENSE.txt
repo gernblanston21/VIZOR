@@ -1,0 +1,78 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 Jordan Reis
+All rights reserved.
+
+This software, including but not limited to source code, scripts, binaries,
+configuration files, documentation, and associated assets (the “Software”),
+is the exclusive property of Jordan Reis.
+
+────────────────────────────────────────────────────────────
+GRANT OF LICENSE
+────────────────────────────────────────────────────────────
+
+Permission is hereby granted to view and use the Software solely for its
+intended purpose, provided that such use is authorized by the copyright
+holder.
+
+No ownership rights are transferred by this license.
+
+────────────────────────────────────────────────────────────
+RESTRICTIONS
+────────────────────────────────────────────────────────────
+
+You may NOT, without prior written permission from the copyright holder:
+
+• Copy, reproduce, or redistribute the Software, in whole or in part  
+• Modify, adapt, translate, or create derivative works  
+• Reverse engineer, decompile, or disassemble the Software  
+• Sell, sublicense, rent, lease, or commercially exploit the Software  
+• Publish the Software or make it available to third parties  
+• Remove or alter any copyright, attribution, or license notices  
+
+────────────────────────────────────────────────────────────
+INTELLECTUAL PROPERTY
+────────────────────────────────────────────────────────────
+
+All right, title, and interest in and to the Software, including all
+intellectual property rights, remain exclusively with Jordan Reis.
+
+Any unauthorized use of the Software constitutes a violation of applicable
+copyright and intellectual property laws.
+
+────────────────────────────────────────────────────────────
+NO WARRANTY
+────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+────────────────────────────────────────────────────────────
+TERMINATION
+────────────────────────────────────────────────────────────
+
+This license is automatically terminated if any of the above restrictions
+are violated. Upon termination, you must immediately cease all use of the
+Software and destroy all copies in your possession.
+
+────────────────────────────────────────────────────────────
+GOVERNING LAW
+────────────────────────────────────────────────────────────
+
+This license shall be governed by and construed in accordance with the laws
+of the United States and the State of Michigan, without regard to conflict
+of law principles.
+
+────────────────────────────────────────────────────────────
+CONTACT
+────────────────────────────────────────────────────────────
+
+For licensing inquiries, permissions, or commercial use requests, contact:
+
+Jordan Reis (ReisGraphics@gmail.com)
